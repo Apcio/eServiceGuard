@@ -1,0 +1,6 @@
+{
+	"uruchomUslugi":["AdobeARMservice"],
+	"sprawdzUslugiCoXSekund": 600,
+	"wczytajKonfiguracjeCoXSekund": 28800,
+	"informujSprawdzanieUslug": false
+}
